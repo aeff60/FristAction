@@ -4,4 +4,3 @@ def say_hello():
 
 def say_goodbye():
     print("Goodbye, GitHub Actions!")  # แก้ไข Indentation
-
