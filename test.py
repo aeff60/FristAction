@@ -1,4 +1,5 @@
 def say_hello():
-    print("Hello, GitHub Actions!")  # แก้ไข Indentation
+          print("Hello, GitHub Actions!")  # แก้ไข Indentation
 
-say_hello()
+def say_goodbye():
+          print("Goodbye, GitHub Actions!")  # แก้ไข Indentation
