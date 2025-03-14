@@ -3,4 +3,4 @@ def say_hello():
 
 
 def say_goodbye():
-    print("Goodbye, GitHub Actions!")
+    print("Goodbye, GitHub Action!")
